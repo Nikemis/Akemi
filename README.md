@@ -1,4 +1,5 @@
-### Olá! Eu sou Aline Nishida estudante de Sistema de Informação 🖐️
+### Olá! Eu sou Aline Nishida!🖐️
+### Estudante de Sistema de Informação 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-nishida/)
 
